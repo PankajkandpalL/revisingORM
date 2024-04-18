@@ -1,0 +1,19 @@
+When should we use SQL and when should I use NoSQL?
+    - Initially, SQL Database.
+
+    - Low latency queries
+    - 100Gb - 
+        - 4 dbs - 25gb
+        - Mongo
+
+    array - 100
+    4 arrays - 25 elems each 
+
+- Choosing a Database
+    - Depends on the requirements.
+
+- Transactions, ACID properties, Join tables
+    - SQL db
+
+- Dynamic Schema
+    - mongodb
